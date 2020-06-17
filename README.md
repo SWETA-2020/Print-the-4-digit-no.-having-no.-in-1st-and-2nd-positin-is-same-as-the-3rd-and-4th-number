@@ -1,0 +1,1 @@
+# Print-the-4-digit-no.-having-no.-in-1st-and-2nd-positin-is-same-as-the-3rd-and-4th-number
