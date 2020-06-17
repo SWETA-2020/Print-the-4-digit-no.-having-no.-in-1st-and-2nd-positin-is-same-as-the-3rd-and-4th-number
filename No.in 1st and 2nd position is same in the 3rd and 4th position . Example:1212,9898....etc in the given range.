@@ -1,0 +1,22 @@
+//No.in 1st and 2nd position is same in the 3rd and 4th position . Example:1212,9898....etc in the given range.
+
+#include<stdio.h>
+int main()
+{
+  int numb;
+  printf("Enter the no.");
+  scanf("%d",&num);
+  for(i=num;i<10000;i++)
+  {
+        rem=i%10;
+        num=i/10;
+        if(rem==num)
+        {
+            printf("%d",i);
+        }
+   return 0;
+  }
+  
+        
+            
+    
